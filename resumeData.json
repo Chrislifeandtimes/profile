@@ -1,0 +1,186 @@
+{
+  "main": {
+    "name": "Cecil Chris-Esema",
+    "occupation": "Software developer",
+    "description": " currently employed by ",
+    "employer": "Dimension data(NTT global)",
+    "jobDescription": "Secure Coding intern and an Agile developer at Britehouse",
+    "image": "profile_pic.jpg",
+    "bio": "I am an athlete at heart, with a proven knack for security and a passion for software development. As a young talent, both my academic and work experiences have taught me to work well as an Agile developer and to furthermore collaborate well as scrum team. I take pride in growing as the lifelong learner - in doing so, my long-term goal is to become an expert in building Secure Next Generation applications.",
+    "contactmessage": "Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "eddyesema@gmail.com",
+    "phone": "+27736322662",
+    "address": {
+      "street": "Pacific Avenue",
+      "city": "Johannesburg",
+      "state": "South Africa",
+      "zip": "2001"
+    },
+    "website": "https://chrislifeandtimes.github.io/HelloChris/",
+    "resumedownload": "https://drive.google.com/file/d/1wmhAfP4tXjnhjZovmNsDGlFuzRId1pWw/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/cecil-chris-esema",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://za.linkedin.com/in/hello-cecil",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/chrislifeandtimes",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "stack-overflow",
+        "url": "https://stackexchange.com/users/18779380/cecil-chris-esema",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Chrislifeandtimes",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"University of Johannesburg",
+        "degree":"Bachelors of commerce in Information Sytsems",
+        "graduated":" 2021",
+        "description":"Under the recommendation and Guidance of the Head Coach of the UVIC soccer team, I transferred to the University of Victoria. Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      },
+      {
+        "school":"Hoerskool Volksrust",
+        "degree":"Bachelors's Pass",
+        "graduated":"Matriculated in 2016",
+        "description":"I attended GPRC for my first 2 years of post-secondary on a scholarship for the college soccer team. While here, I studied Computer Systems Technology, a 2 year lead-in to a Bachelors of Computer Science. This was a very hands-on experience focused more on building projects than general theory. Here I built database structures for fictional companies, created small video games, hand-coded Space Invaders from scratch in Assembly Language, built and coded an Arduino Robot to navigate obstacle courses, a lot of Java and C++ programming for data structures, and much more."
+      }
+    ],
+    "work":[
+      {
+        "company":"Dimension data(NTT global)",
+        "title": "Secure coder intern",
+        "years": "June 2019 - Present",
+        "description": "Being my first time working in a large conglomerate company, myself and a team of 3 other secure coding interns, called the ‘CSIT’, joined DD security in June 2019, must say for the last 13 months I have been exposed to a wide range of different projects and experiences together with the team of 3 other secure coding interns. \n\n Our debut project was creating a Security Controls learning tool called Dimension Data Dash which explains at a high level what each security control is, why it is important, and what the risks of not having it implemented are. This tool will be an enabler to those who are fairly new to security and help stimulate the learning process. \n\n More recently, I was given the opportunity to partner with Britehouse as part of my rotation around the business. During that period I worked alongside their BriteHouse IW & 2.0 graduates in an Agile fashion - Collectively developed a Product called Justin Time, an Enterprise Web Application that extracts timesheet data from Britehouse S 4 Hana and encapsulates solutions like Azure Data factory Pipelines, SQL Server and Power BI to produce a Timesheet Analytics Dashboard tool for the employee and their relevant line managers. Another Product that was worked on at BriteHouse, was the graduate project caled Doctrina, I had the opportunity to featured in on the Front-end as an Agile developer. Refurbished the inhouse graduate recruitment website, which displays each graduate in the business and gives information out their skillsets and areas in the business that they are interested in to help make placing them easier."
+      },
+      {
+        "company":"The Photoshop",
+        "title":"Graphic Designer / Photographer ",
+        "years":"February 2017 - January 2018",
+        "description":"Working for The Photoshop has given me a solid understanding of client-based engagement models for Small-sized companies and what it actually takes to keep the 'Ship afloat'. During my time here I became proficient with the Adobe Creative Suite and Attended design workshops, also provided comprehensive support to client inquiries in person and via comms, quelling concerns, providing information, giving directions, and relaying requests to the head designers, and provided Provided effective backup and disaster recovery solutions with further technical support."
+      }
+     
+      
+    ],
+    "skills":[
+      {
+        "name": "Python",
+        "description": "Python was my first programming language that I started using in vasrity years, It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image": "java.jpg"
+      },
+      {
+        "name": "C#",
+        "description": "Besides being the most sought-after language in 2020, C# is every coder's best friend. I find it very important as a coder to speak the most vastly spoken language in your area of developement. ",
+        "image": "node.jpg"
+      },
+      {
+        "name": "HTML5",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "html.jpg"
+      },
+      {
+        "name": "React Js",
+        "description": "I am fairly new to React and loved it from the get go. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image": "react.png"
+      },
+      "\n",
+      {
+        "name": "Git",
+        "description": "I had my first experience with the tool during my rotation at Britehouse and must say, Git is great for pretty much any coding project. Whether working on a team or as a single developer, essentially great for source control.",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Sql Server",
+        "description": "During my time spent on the Justin Time project at Britehouse, I was exposed to a series of SQL server data tools and integration services.  We successfully performed the ETL process on timesheet data stored in S4HANA to target tables within a sql databases.",
+        "image": "sql.png"
+      },
+      {
+        "name": "Bootstrap 4",
+        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image": "bootstrap.jpg"
+      },
+      {
+        "name": "Azure DevOps",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.png"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Dimension Data Dash",
+        "category": "A security enablement tool for internal usage",
+        "image": "dash.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Doctrina",
+        "category": "In-house graduate recruitment tool based on the individual's skill set",
+        "image": "doctrina.jpg",
+        "url": "https://gradgital.github.io/Doctrina2020/graduates.html"
+      },
+      {
+        "title": "Justin Time",
+        "category": "Product that extracts timesheet data and encapsulates solutions like SAP, Microsoft Azure Data warehouses, SQL Server and Power BI to produce analytics for relevant line managers.",
+        "image": "jit.jpg",
+        "url": "https://original-thai-food.herokuapp.com/index.html"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.png",
+        "url": "https://chrislifeandtimes.github.io/HelloChris/"
+      },
+        "\n",
+      {
+        "title": "AWS Training",
+        "category": "A security enablement tool for internal usage",
+        "image": "aws.jpg",
+        "url": "https://drive.google.com/file/d/1KCYMXCK8lThHSolimXuJMlEe2Nc7KcVw/view?usp=sharing"
+      },
+      {
+        "title": "Cisco Training",
+        "category": " Stage 1 comprises of an essentials course and Stage 2 has four sections: Advanced Threat Cybersecurity, Cloud Web and Email Cybersecurity, Enforcement and Visibility, and Network Security.",
+        "image": "cisco.png",
+        "url": "https://gradgital.github.io/Doctrina2020/graduates.html"
+      },
+      {
+        "title": "Fortinet Training",
+        "category": "Product that extracts timesheet data and encapsulates solutions like SAP, Microsoft Azure Data warehouses, SQL Server and Power BI to produce analytics for relevant line managers.",
+        "image": "fortinet.jpg",
+        "url": "https://drive.google.com/file/d/1DhjEjbA7xxQgILN-ac69_D06C8SLd2TP/view?usp=sharing"
+      },
+      {
+        "title": "CompTia Sec+",
+        "category": "A React based resume website template",
+        "image": "comptia.png",
+        "url": "https://drive.google.com/file/d/1DPwsvO1OkK0VEvALFVkej9p2uj39YnBF/view?usp=sharing"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"If you're thinking about working with, hiring or just getting to know this gentleman, be prepared - he is knowledgeable, ruthless (in hitting his targets) and trustworthy when the goal is set..",
+        "user":"Professor Abejide Ade-Ibijola - Associate Professor at the University of Johannesburg, CBE"
+      }
+    ]
+  }
+}
